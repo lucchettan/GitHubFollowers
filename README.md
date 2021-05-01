@@ -14,5 +14,10 @@ I even practiced myself with some testing to go a little bit further in the lear
 
 This project had for goal to practice myself with programmatic UI coding and secure API calls.
 
+ - Pull the project from  "https://github.com/lucchettan/GitHubFollowers"
 
-Enjoy!! 
+ - Open the Xcode project 
+
+- Run it on any Iphone Simulator or iPhone device you want.
+
+and Enjoy!! 
