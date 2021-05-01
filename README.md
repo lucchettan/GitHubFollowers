@@ -1,6 +1,6 @@
-# GHFollowers
+# GitHubFollowers
 
-## Your GitHub explorer!
+## Your GitHub's users explorer!
 
 ---
 
@@ -10,7 +10,7 @@ This has been realised fully thanks to UIKit and the UI is coded.
 
 I even practiced myself with some testing to go a little bit further in the learning. 
 
-<img src="https://github.com/lucchettan/GHFollowers/blob/master/searchVC.PNG" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GHFollowers/blob/master/followersList.PNG" alt="Forest" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GHFollowers/blob/master/followerView.PNG" alt="Mountains" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GHFollowers/blob/master/webview.PNG" alt="Mountains" width="120" height="250" hspace="50"/>
+<img src="https://github.com/lucchettan/GHFollowers/blob/master/searchVC.PNG" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GitHubFollowers/blob/master/followersList.PNG" alt="Forest" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GitHubFollowers/blob/master/followerView.PNG" alt="Mountains" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/GitHubFollowers/blob/master/webview.PNG" alt="Mountains" width="120" height="250" hspace="50"/>
 
 This project had for goal to practice myself with programmatic UI coding and secure API calls.
 
